@@ -83,3 +83,22 @@ footer {
     font-size: 0.9em;
     color: #7f8c8d;
 }
+
+.tarjeta-estudiante{
+    display:flex;
+    gap:25px;
+    background:white;
+    padding:20px;
+    margin-bottom:25px;
+    border-radius:8px;
+    align-items:flex-start;
+}
+
+.avatar{
+    width:180px;
+    height:auto;
+}
+
+.info{
+    flex:1;
+}
